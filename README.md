@@ -6,6 +6,7 @@ A simple ATM system built with Python.
 - Check Blance
 - Deposit Money
 - Withdraw Money
+- Check History
 - Exit System
 
 ## Run
